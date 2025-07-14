@@ -1,0 +1,87 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yijie Li
+    - name: Occupation
+      value: Graduate Student
+    - name: Languages
+      value: Chinese, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: BSc in Software Engineering
+      institution: University College Dublin, Dublin, Ireland
+      year: 2019 - 2023
+      description: "GPA: 3.74/4.2"
+    - title: BEng in Software Engineering
+      institution: Beijing University of Technology, Beijing, China
+      year: 2019 - 2023
+      description: "GPA: 3.72/4.2"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Researcher
+      institution: University College Dublin, Dublin, Ireland
+      year: 2022-2023
+      description:
+        - Studied light-weight salient object detection
+        - Conducted research in geo-science and remote sensing
+    - title: Research Intern
+      institution: Tsinghua University, Beijing, China
+      year: 2022-2023
+      description:
+        - Studied generative adversarial models (GAN) and image manipulation .
+    - title: Research Intern
+      institution: University College Dublin, Dublin, Ireland
+      year: 2021-2022
+      description:
+        - Studied stero matching, and real-time driving scene parsing
+        - Conducted research in geoscience and remote sensing
+      
+- title: Achievements
+  type: time_table
+  contents:
+    - title: <a href="https://www.coursera.org/learn/neural-networks-deep-learning">Nerual Network and Deep Learning</a>
+      year: 2020
+      description: 
+        - <b>Coursera & DeepLearning.AI</b>
+        - Jul. 2020
+        - <a href="https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2"><b>Certificate</b></a>
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - 2022 Capital 'Challenge Cup' Entrepreneurship Competition, <b>Bronze Prize</b> 
+        - BJUT Scholarships for Excellent Innovation & Entrepreneurship (<b>Top 10%</b>)
+    - year: 2021 - 2022
+      items: 
+        - BJUT Merit Scholarships for Academic Excellence (<b>Top 10%</b>)
+    - year: 2020 - 2021
+      items: 
+        - BDIC Merit Scholarships for Academic Excellence (<b>Top 20%</b>)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Semantic Segmentation
+      items: 
+        - Geoscience and remote sensing
+        - Medical image processing
+    - title: Light-weight Salient Object Detection
+      items:
+        - Building light-weight and accurate models
+        - Designing effective training strategy
+    - title: GAN and Image Manipulation
+      items:
+        - Designing GAN-based image manipulation algorithm
+        - Solving problem of attribute coupling
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Cycling, Movie, Badminton, etc.
