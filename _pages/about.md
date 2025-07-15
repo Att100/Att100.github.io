@@ -30,7 +30,7 @@ Northwestern University, Evanston, IL<br>
 <a href="https://www.linkedin.com/in/yijie-li-36a739281"><img src="assets/img/icons/linkedin.svg" width="32px" height="32px"/></a>
 <a href="https://scholar.google.com/citations?user=SqIl3BMAAAAJ"><img src="assets/img/icons/google-scholar-square.svg" width="32px" height="32px"/></a><br>
 
-I am a graduate student majoring in `Artificial Intelligence` at Northwestern University. I received my Bachelor's degree (`Software Engineering`, dual degree program) from University College Dublin (UCD) and Beijing University of Technology (BJUT) in July 2023. 
+I graduated from `Msc in Artificial Intelligence (MSAI)` at Northwestern University. I received my Bachelor's degree (`Software Engineering`, dual degree program) from University College Dublin (UCD) and Beijing University of Technology (BJUT) in July 2023. 
 
 I was a research intern at Tsinghua University in 2022~2023, focusing on generative adversarial networks (GAN), advised by Professor [Yongjin Liu](http://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). Before that, I was working on several topics related to computer vision, supervised by Dr. [Soumyabrata Dev](https://soumyabrata.dev/) and Professor [Shaofan Wang](https://shaofanwang.weebly.com/) at UCD and BJUT.
 
