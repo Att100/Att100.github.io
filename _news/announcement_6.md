@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper [CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement]() is accepted by he British Machine Vision Conference (BMVC) 2024.
+Our paper [CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_630/paper.pdf) is accepted by the British Machine Vision Conference (BMVC) 2024.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visiting researcher at Robotics Institute (RI), Carnegie Mellon University, supervised by Prof. László A. Jeni.
+Visiting student at RI, Carnegie Mellon University, advised by Prof. László A. Jeni.

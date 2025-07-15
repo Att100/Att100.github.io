@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Online research intern at Tsinghua University for GAN and image attribute manipulation, advised by Professor Yongjin Liu.
+Research intern at Tsinghua University, advised by Prof. Yongjin Liu.

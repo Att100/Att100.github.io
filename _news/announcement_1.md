@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be working on several topics about computer vision, advised by Dr. Soumyabrata Dev.
+Machine learning research intern at University College Dublin, advised by Dr. Soumyabrata Dev.
