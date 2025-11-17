@@ -30,8 +30,8 @@ Carnegie Mellon University, Pittsburgh, PA<br>
 <a href="https://www.linkedin.com/in/yijie-li-36a739281"><img src="assets/img/icons/linkedin.svg" width="32px" height="32px"/></a>
 <a href="https://scholar.google.com/citations?user=SqIl3BMAAAAJ"><img src="assets/img/icons/google-scholar-square.svg" width="32px" height="32px"/></a><br>
 
-I am a Research Assistant at Robotics Institute, Carnegie Mellon University, advised by Prof. [László A. Jeni](https://www.laszlojeni.com/). I earned my Master's degree in `Artificial Intelligence` at Northwestern University. Previously, I received my Bachelor's degree in `Software Engineering` from University College Dublin (UCD) in July 2023. 
+I am a Research Scientist at Black Sesame Technologies Inc. During Jan 2025 - Aug 2025, I was a Research Assistant at Robotics Institute, Carnegie Mellon University, advised by Prof. [László A. Jeni](https://www.laszlojeni.com/). I earned my Master's degree in `Artificial Intelligence` at Northwestern University. Previously, I received my Bachelor's degree in `Software Engineering` from University College Dublin (UCD) in July 2023. 
 
 I was a research intern at Tsinghua University in 2022~2023, focusing on generative adversarial networks (GAN), advised by Prof. [Yongjin Liu](http://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). Before that, I was working on several topics related to computer vision, supervised by Dr. [Soumyabrata Dev](https://soumyabrata.dev/) at UCD.
 
-My research interests lie in `2D/3D Computer Vision` and `Natural Language Processing`, including efficient semantic segmentation models, remote sensing, human motion capture, and VLMs.
+My research interests lie in `Machine Learning` and `2D/3D Computer Vision`, including efficient neural networks, human motion recovery, and generative models.
